@@ -203,7 +203,7 @@ export default function LoginPage() {
                     <input
                       type="password"
                       required
-                      placeholder="Masukkan kata sandi akun KIP Anda"
+                      placeholder="masukan kata sandi PILKADIKIP anda"
                       value={password}
                       onChange={(e) => setPassword(e.target.value)}
                       className="w-full px-3.5 py-2.5 rounded-xl border border-gray-300 focus:border-brand-gold focus:ring-2 focus:ring-brand-yellow/50 outline-none text-sm font-sans transition-all text-gray-900 bg-gray-50/50 focus:bg-white"

@@ -270,7 +270,7 @@ export default function AdminPage() {
                   </div>
                   <div>
                     <h4 className="font-sans font-bold text-sm text-gray-900 leading-tight">
-                      Fathir Rifai &amp; Nayla Shofwanurrohmah
+                      Try Afandi &amp; Viola Saraswita
                     </h4>
                     <span className="text-[10px] text-brand-gold uppercase font-bold tracking-wider">
                       Paslon Nomor Urut 1
@@ -305,7 +305,7 @@ export default function AdminPage() {
                   </div>
                   <div>
                     <h4 className="font-sans font-bold text-sm text-gray-900 leading-tight">
-                      Try Afandi &amp; Viola Saraswita
+                      Fatir Rifai &amp; Nayla Shofwanurrohmah
                     </h4>
                     <span className="text-[10px] text-brand-gold uppercase font-bold tracking-wider">
                       Paslon Nomor Urut 2

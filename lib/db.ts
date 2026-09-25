@@ -264,7 +264,7 @@ export async function recordVote(
   // 2. SQLITE LOCAL DEV MODE
   const sqlite = getSqlite();
   const votedAt = new Date().toISOString();
-  const candidateLabel = candidateId === 1 ? "Paslon 1 (Fathir Rifai)" : "Paslon 2 (Try Afandi)";
+  const candidateLabel = candidateId === 1 ? "Paslon 1 (Try Afandi)" : "Paslon 2 (Fatir Rifai)";
 
   const voteTransaction = sqlite.transaction(() => {
     const updateResult = sqlite
